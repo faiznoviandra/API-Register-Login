@@ -1,3 +1,4 @@
+// Digunakan untuk mengatur koneksi database menggunakan my sql2 & dotenv
 // Mengimpor library mysql2 untuk koneksi ke database MySQL
 const mysql = require('mysql2');  
 
