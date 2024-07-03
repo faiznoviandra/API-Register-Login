@@ -1,3 +1,5 @@
+// Mengimplementasikan sebuah middleware untuk melakukan autentifikasi token JWT
+
 const jwt = require('jsonwebtoken');
 
 // Middleware untuk autentikasi token JWT
