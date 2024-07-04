@@ -1,3 +1,4 @@
+//  Untuk megabungkan file lain buat jalanin apl
 // Mengimpor modul express untuk membangun aplikasi web
 const express = require('express');
 
